@@ -1,0 +1,21 @@
+# As recompensas sao configuradas em [recompensas.yml]
+
+Minerios:
+  bloco1:
+    Bloco: 'STAINED_CLAY:0' # Material : Data
+    Valor: 1E3
+    Recompensas: # Coloque quantas quiser
+      - 'recompensa1' # Section da recompensa
+  bloco2:
+    Bloco: 'STAINED_CLAY:5'
+    Valor: 25E3
+    Recompensas:
+      - 'recompensa1'
+      - 'recompensa2'
+  bloco3:
+    Bloco: 'COAL_ORE:0'
+    Valor: 1E6
+    Recompensas:
+      - 'recompensa1'
+      - 'recompensa2'
+      - 'recompensa3'

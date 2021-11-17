@@ -1,0 +1,30 @@
+# Configure os blocos daram as recompensas em [minerios.yml]
+
+Recompensas:
+  recompensa1:
+    Chance: 10 # Chance de vir a recompensa
+    Title:
+      Linha1: '&6&lMINA' # Parte de Cima
+      Linha2: '&eVocê encontrou &a1 Pedra &emineirando' # Parte de Baixo
+    Som adquirida: 'LEVEL_UP'
+    Comandos: # Coloque quantos quiser
+      - 'give {player} stone 32'
+  recompensa2:
+    Chance: 3
+    Title:
+      Linha1: '&6&lMINA'
+      Linha2: '&eVocê encontrou &a250 Cash &emineirando'
+    Som adquirida: 'ORB_PICKUP'
+    Comandos:
+      - 'cash add {player} 150'
+      - 'cash add {player} 100'
+  recompensa3:
+    Chance: 1
+    Title:
+      Linha1: '&6&lMINA'
+      Linha2: '&eVocê encontrou &a1K Cash &emineirando'
+    Som adquirida: 'LEVEL_UP'
+    Comandos:
+      - 'cash add {player} 500'
+      - 'cash add {player} 250'
+      - 'cash add {player} 250'

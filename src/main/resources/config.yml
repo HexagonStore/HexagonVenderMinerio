@@ -1,0 +1,40 @@
+# Qualquer bug, chame a Desenvolvedora no Discord
+# Discord: Maria_BR#4870
+#
+# Para receber suporte e retirar dúvidas sobre este plugin, entre em meu Discord
+# Discord: https://discord.gg/N5TnsKUfQ8
+
+# Permissao para "/hm reload" = "hexagon.minerios.admin"
+
+Mundos bloqueados: # Mundos que nao vira money
+  - 'PlotWorld'
+
+ActionBar: '&6&lMINA &8» &7Você recebeu &a${valor} &7quebrando &f{bloco}&7. &e{bonus}'
+
+Formatacao: # Altere e adicione quantas formataçoes quiser
+  - '' # Deixe vazio
+  - 'K'
+  - 'M'
+  - 'B'
+  - 'T'
+  - 'Q'
+  - 'QQ'
+  - 'S'
+  - 'SS'
+  - 'OC'
+  - 'N'
+  - 'D'
+  - 'UN'
+  - 'DD'
+  - 'TR'
+  - 'QR'
+  - 'QD'
+  - 'SD'
+  - 'SPD'
+  - 'OD'
+  - 'ND'
+  - 'VG'
+  - 'UVG'
+  - 'DVG'
+  - 'TVG'
+  - 'QTV'

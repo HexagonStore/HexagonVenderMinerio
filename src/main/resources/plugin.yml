@@ -1,0 +1,8 @@
+name: HexagonAutoVenderMinerio
+version: 1.0.0
+main: com.maria.autovenderminerio.SelfSellOrePlugin
+softdepend: [ Vault ]
+authors: [ Maria_BR ]
+commands:
+  minerios:
+    aliases: [minerio, hexagonminerio, hm]

@@ -1,0 +1,6 @@
+Bonus:
+  - 'mina.bonus3:&b[MVP]:35' # Permissao : VIP Nome : Porcentagem
+  - 'mina.bonus2:&6[VIP+]:20'
+  - 'mina.bonus1:&a[VIP]:10'
+
+Estilo: '{porcentagem} +{bonus} {vip}'
